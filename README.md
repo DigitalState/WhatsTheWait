@@ -16,4 +16,7 @@ Wait time API to expose wait times for "things".
 1. Immigration
 1. Client Service Centre
 1. DMV
-1. ...
+1. ATIP Request Processing for a Departments
+1. Clinics
+1. Immunizations
+1. Flu Clinics
